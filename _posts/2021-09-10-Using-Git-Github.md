@@ -7,7 +7,6 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [tech, c4ac]
 ---
-### Git
 
 It allows many versions of a software to run on different members’ machines and the branching and merging of those versions. 
 
@@ -15,7 +14,7 @@ When you run git on the command prompt there are [commands](https://git-scm.com/
 
 On Visual Studio Code, a popular code-editor that we will be using this year, there is integrated source control management and a git extension that allows you to easily do source control in the IDE.
 
-### Github
+## Github
 
 Github is a Internet hosting service for version control using git. You can create public repositories with Github that your teammates can access. You can also use Github to “clone” repositories to a local directory and then make changes, pull, commit, and push it up to the original.
 
