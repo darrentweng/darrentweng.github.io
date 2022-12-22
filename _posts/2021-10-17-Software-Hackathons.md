@@ -3,8 +3,8 @@ layout: post
 title: Software Installation for Hackathons
 subtitle: An elevator pitch is a brief summary of an idea or application that explains its concepts in a short amount of time. 
 cover-img: /assets/img/elevator_pitch.png
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/elevator_pitch.png
+thumbnail-img: /assets/img/chocolatey.svg
+share-img:
 tags: [tech, c4ac]
 ---
 

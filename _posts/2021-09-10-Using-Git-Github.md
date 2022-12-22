@@ -3,8 +3,8 @@ layout: post
 title: Using Git and Github
 subtitle: Git is a local, distributed version control software that allows programmers to coordinate developing code separately.
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+thumbnail-img:
+share-img:
 tags: [tech, c4ac]
 ---
 
