@@ -2,9 +2,9 @@
 layout: post
 title: Wireframes
 subtitle: A process where designers draw overviews of interactive products to establish the structure and flow of possible design solutions
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/wireframe.png
+thumbnail-img: /assets/img/wireframe.png
+share-img:
 tags: [tech, c4ac]
 ---
 
