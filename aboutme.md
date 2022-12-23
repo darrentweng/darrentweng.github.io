@@ -6,11 +6,9 @@ subtitle: What you need to know about me
 
 My name is Darren Weng. I have the following qualities:
 
+- I have an identical twin brother who is also my best friend.
 - I love classic rock.
-- I'm extremely loyal to my friends and family
+- I play tennis and online games to relax.
+- I'm extremely loyal to my friends and family.
 
-What else do you need?
-
-### My story
-
-I will start writing my story here.
+I want to make world a better place by making technologies and education accessible, also by finding solutions that benefit us all, through open source and open debate.

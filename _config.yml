@@ -21,10 +21,12 @@ author: Darren Weng
 
 navbar-links:
   Who is Darren: "aboutme"
-  Devpost Home: "https://devpost.com/starscree"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Devpost Home: 
+  My Communities & Rankings:
+    - Devpost (Hackathons): "https://devpost.com/starscree"
+    - Rosalind (Bioinformatics): "https://rosalind.info/users/darrenweng/"
+    - GitHub (Open-Source): "https://github.com/darrentweng"
+    - RobotBenchmark (Robotics): "https://robotbenchmark.net/darrenweng"
 
 ################
 # --- Logo --- #
