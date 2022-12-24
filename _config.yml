@@ -21,6 +21,7 @@ author: Darren Weng
 
 navbar-links:
   Who is Darren: "aboutme"
+  Posts: "tags"
   My Communities & Rankings:
     - Devpost (Hackathons): "https://devpost.com/starscree"
     - Rosalind (Bioinformatics): "https://rosalind.info/users/darrenweng/"
