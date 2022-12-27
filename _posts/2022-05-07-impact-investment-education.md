@@ -2,7 +2,7 @@
 layout: post
 title: Impact Investment's Impact On Education
 subtitle: The role of education in shaping economic and social mobility in the United States
-tags: [tech, c4ac]
+tags: [tech, education]
 ---
 
 Impact investment refers to investing in companies, organizations, and funds with the intention to generate a measurable, beneficial social or environmental impact alongside a financial return. In the context of education, impact investment can be used to fund initiatives that aim to improve access to education, the quality of education, and educational outcomes for underserved or disadvantaged communities.

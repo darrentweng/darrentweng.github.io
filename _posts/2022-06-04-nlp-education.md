@@ -5,7 +5,7 @@ subtitle:
 cover-img:
 thumbnail-img: /assets/img/nlp-ed.jpg
 share-img:
-tags: [tech, c4ac]
+tags: [tech, nlp, education]
 ---
 
 There are several ways in which Natural Language Processing (NLP) can be used in education:
