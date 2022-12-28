@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Plato Academy &  
-subtitle: 
+title: Plato Academy & Khan Academy
+subtitle: Stories of two great institutions
 share-img:
 tags: [tech, education]
 ---
