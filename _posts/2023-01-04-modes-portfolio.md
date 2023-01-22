@@ -26,8 +26,11 @@ Finally, engaging in competitive sports is often classified as a masculine trait
 
 ## Division
 Being an environmentalist involves a commitment to protecting the natural world and working towards a more sustainable future. There are a few clear aspects to being an environmentalist: understanding, protecting, and educating.
+
 First, it is important to understand the various environmental issues facing the world today and the actions one could take to help resolve these issues. This includes being informed about the various ways in which human activity is impacting the natural world, such as climate change, pollution, habitat destruction, and resource depletion. Environmentalists should strive to stay up-to-date on these issues and be aware of the latest research and developments. It is also useful to be informed on what lifestyle choices can help protect the environment.
+
 In addition, it is vital to take direct action in order to protect the environment. For example, one could engage in activities such as volunteering for conservation organizations, participating in beach cleanups, or advocating for policies that promote sustainability. Environmentalists could also simply change their lifestyles to live in a more environmentally conscious way and reduce their carbon footprints.
+
 Lastly, environmentalists should help educate others on the environment. It is vital for them to share their knowledge and passion for the natural world with others as it inspires them to become environmentalists themselves, growing the number of environmentalists and helping the environment on a larger scale. Together, we can create a more sustainable future for us all.
 
 
