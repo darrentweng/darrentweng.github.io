@@ -7,7 +7,7 @@ subtitle: What you need to know about me
 My name is Darren T. Weng. I have the following qualities:
 
 - I have an identical twin brother who is also my best friend.
-- I love classic rock.
+- I love classic rock, especially those from the 70s and 80s.
 - I play tennis and online games to relax.
 - I'm extremely loyal to my friends and family.
 
