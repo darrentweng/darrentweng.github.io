@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Dojo of Enlightenment
+title: Darren Weng
 
 # Your name to show in the footer
 author: Darren Weng
@@ -20,16 +20,16 @@ author: Darren Weng
 ###############################################
 
 navbar-links:
-  About Darren Weng: "aboutme"
+  About Me: "aboutme"
   Posts: "tags"
-  Researches: "researches"
-  Communities & Rankings:
-    - Devpost (Hackathons): "https://devpost.com/darrenweng"
-    - Rosalind (Bioinformatics): "https://rosalind.info/users/darrenweng/"
-    - GitHub (Open-Source): "https://github.com/darrentweng"
-    - Fiverr (Hire Me!): "https://www.fiverr.com/wengbros"
-    - RobotBenchmark (Robotics): "https://robotbenchmark.net/darrenweng"
-
+  Research: "researches"
+  LastMileNow: "https://lastmilenow.org/"
+  Communities:
+    - Devpost: "https://devpost.com/darrenweng"
+    - Rosalind: "https://rosalind.info/users/darrenweng/"
+    - GitHub: "https://github.com/darrentweng"
+    - Robot Benchmark: "https://robotbenchmark.net/darrenweng"
+    - Fiverr: "https://www.fiverr.com/wengbros"
 ################
 # --- Logo --- #
 ################
