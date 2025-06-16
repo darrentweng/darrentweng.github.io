@@ -1,0 +1,25 @@
+{
+  "social": "Links",
+  "profile": "About Me",
+  "experience": "Experience",
+  "education": "Education",
+  "certificates": "Certificates",
+  "references": "References",
+  "referencesphone": "Phone",
+  "referencesemail": "Email",
+  "languages": "Languages",
+  "interests": "Hobbies & Interests",
+  "skills": "Skills",
+  "download": "Download",
+  "contact": {
+    "address": "Address",
+    "email": "Email",
+    "phone": "Phone"
+  },
+  "themeButton": "Theme",
+  "generatePdf": "Generate PDF",
+  "localizedCertId": "ID",
+  "localizedViewCert": "View Certificate",
+  "readMore": "Read More",
+  "readLess": "Read Less"
+}
