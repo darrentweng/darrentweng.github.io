@@ -1,0 +1,68 @@
+{
+  "name": "Darren Weng",
+  "profession": "High School Senior | Code For A Cause | Last Mile Now",
+  "profileImage": "assets/images/profile.jpg",
+  "contact": {
+    "address": "10 Sandy Hill Ter, Westport, CT 06880",
+    "email": "darren.t.weng@gmail.com",
+    "phone": "(203) 993-9637",
+    "web": {
+      "url": "http://darrenweng.com",
+      "title": "darrenweng.com"
+    }
+  },
+  "socialLinks": [
+    { "name": "GitHub", "url": "https://github.com/darrentweng" },
+    { "name": "Last Mile Now", "url": "https://lastmilenow.org/" },
+    { "name": "Code For A Cause", "url": "https://code4acause.github.io/" }
+  ],
+  "profile": "Staples High School Senior passionate about making technologies and education accessible. Co-founder of Last Mile Now and Code For A Cause. Experienced in open source, hackathons, and STEM education. Seeking to create solutions that benefit all through open debate and technology.",
+  "education": [
+    { "title": "Staples High School", "institution": "Westport, CT", "year": "2020 - Present", "description": "GPA: 4.41 (Weighted) / 4.00 (Unweighted)" },
+    { "title": "Yale Young Global Scholar (IST)", "institution": "Yale University, New Haven, CT", "year": "Summer 2023", "description": "Accepted into Innovations in Science & Technology. Attended seminars on AI, neuroscience, and cognitive science." },
+    { "title": "Johns Hopkins University Summer", "institution": "Baltimore, MD", "year": "June - Aug 2022", "description": "Applications of Chemistry in Medicine (A), Neuroscience and Human Behavior (A+) (college credits)" },
+    { "title": "MIT Beaver Works Summer Institute", "institution": "Virtual/Cambridge, MA", "year": "Feb - June 2022", "description": "Learned Git, Python, Autonomous Cognitive Assistant, and Cyber Security." },
+    { "title": "Norwalk Community College", "institution": "Norwalk, CT", "year": "2022 - Present", "description": "Introduction to Business (A), World Religion (A), Principles of Sociology (A) (dual enrollment)" }
+  ],
+  "experience": [
+    { "title": "Co-Founder", "company": "Last Mile Now", "period": "Sep 2022 - Present", "description": "Non-profit targeting accessibility in healthcare. Use chatbots, open-source projects & crowdfunding to address social issues. Maintain 4 and sponsor 7 open source projects through members' donations.", "url": "https://lastmilenow.org/", "skills": ["Open Source", "Healthcare", "Crowdfunding", "Chatbots"] },
+    { "title": "President & Co-Founder", "company": "Code For A Cause", "period": "Sep 2021 - Present", "description": "Co-founded C4AC to encourage peers to make real impacts through hackathons. Publish newsletters, organize meets, and lead students to participate and win several international and national hackathons.", "url": "https://code4acause.github.io/", "skills": ["Hackathons", "Leadership", "Community Building"] },
+    { "title": "Founder", "company": "MealMaps (supported by LaunchX)", "period": "Summer 2023", "description": "Food discovery business featuring an interactive map for people with dietary restrictions to find suitable restaurants.", "skills": ["Web Development", "Mapping", "Entrepreneurship"] },
+    { "title": "Summer Tech Intern", "company": "Polypaths", "period": "Summer 2022", "description": "Wrote 11 Selenium scripts to automate QA. Created prototype client support chatbot trained with Salesforce data.", "skills": ["Selenium", "QA Automation", "Chatbots"] },
+    { "title": "Vice President & Varsity Debater", "company": "Staples Debate Club", "period": "Sep 2020 - Present", "description": "Participate in monthly tournaments, judge novice debates, mentor new debaters, organize meets, and recruit new members.", "skills": ["Debate", "Mentoring", "Leadership"] },
+    { "title": "Co-Captain", "company": "Fed Challenge Team", "period": "Sep 2021 - Present", "description": "Organized and led meetings, created agendas and rubrics, researched and wrote the winning essay.", "skills": ["Economics", "Leadership", "Research"] },
+    { "title": "Instructor", "company": "Citizen Invention", "period": "Sep 2020 - Present", "description": "Paid job teaching STEM & Design Thinking to 200+ kids. Employee of the year 2022.", "skills": ["STEM Education", "Robotics", "Design Thinking"] },
+    { "title": "Research Intern", "company": "Harvard Coronavirus Visualization Team", "period": "2022", "description": "Invited to join CVT intern team. Learned data analysis and visualization tools.", "skills": ["Data Analysis", "Visualization"] },
+    { "title": "Math Tutor", "company": "Mu Alpha Theta, Staples High School", "period": "2022 - Present", "description": "Tutor peers in math. Differentiate curriculum based on learning styles and levels.", "skills": ["Math Tutoring", "Curriculum Design"] }
+  ],
+  "certificates": [
+    { "title": "Git & Github (MIT Lincoln Lab)", "description": "https://courses.bwsix.edly.io/certificates/8bd161f4fdc046629ba8c8553e178a92" },
+    { "title": "Python Core (MIT Lincoln Lab)", "description": "https://courses.bwsix.edly.io/certificates/b3728290a55443518ffe73f22ecdcabb" },
+    { "title": "Cybersecurity (MIT Lincoln Lab)", "description": "https://courses.bwsix.edly.io/certificates/cabc60cd747c4350b62e8763b49be228" },
+    { "title": "AI Scholars (Inspirit AI)", "description": "https://drive.google.com/file/d/1aj4Xw77Gc6LWByb8ZPQiHu356bqzPzP-/view?usp=share_link" },
+    { "title": "Narrative Economics (Yale)", "description": "https://www.coursera.org/account/accomplishments/verify/CLDDVXA7AC4D" },
+    { "title": "Viral Marketing (Wharton)", "description": "https://coursera.org/share/2a4aed1faddc99611128599de12a2d24" },
+    { "title": "Intro to Machine Learning (Kaggle)", "description": "https://www.kaggle.com/learn/certification/darrenweng/intro-to-machine-learning" },
+    { "title": "Pandas (Kaggle)", "description": "https://www.kaggle.com/learn/certification/darrenweng/pandas" },
+    { "title": "Introduction to Image Generation (Google)", "description": "https://www.cloudskillsboost.google/public_profiles/dc1c6181-1e7c-4afb-a21c-cee373f330a5/badges/4569282" },
+    { "title": "Generative AI Fundamentals (Google)", "description": "https://www.cloudskillsboost.google/public_profiles/dc1c6181-1e7c-4afb-a21c-cee373f330a5/badges/4270394" },
+    { "title": "Introduction to Responsible AI (Google)", "description": "https://www.cloudskillsboost.google/public_profiles/dc1c6181-1e7c-4afb-a21c-cee373f330a5/badges/4269827" },
+    { "title": "Introduction to Large Language Models (Google)", "description": "https://www.cloudskillsboost.google/public_profiles/dc1c6181-1e7c-4afb-a21c-cee373f330a5/badges/4019503" }
+  ],
+  "references": [],
+  "skills": [
+    "Hackathon", "NLP", "Debate", "Chatbot", "Data Visualization", "Python", "Java", "NodeJS", "Git", "Cohere"
+  ],
+  "languages": {
+    "English": 100,
+    "Spanish (CT Seal of Biliteracy)": 90
+  },
+  "interests": {
+    "Online Games": "bx-joystick",
+    "Tennis": "bxs-tennis-ball",
+    "Pickleball": "bxs-tennis-ball",
+    "Food": "bxs-pizza",
+    "Guitar": "bxs-music",
+    "Teaching": "bxs-chalkboard"
+  }
+}
