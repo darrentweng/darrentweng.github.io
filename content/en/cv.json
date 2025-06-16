@@ -1,6 +1,6 @@
 {
   "name": "Darren Weng",
-  "profession": "High School Senior | Code For A Cause | Last Mile Now",
+  "profession": "CS + Econ @ Penn '28",
   "profileImage": "assets/images/profile.jpg",
   "contact": {
     "address": "10 Sandy Hill Ter, Westport, CT 06880",
@@ -13,24 +13,23 @@
   },
   "socialLinks": [
     { "name": "GitHub", "url": "https://github.com/darrentweng" },
-    { "name": "Last Mile Now", "url": "https://lastmilenow.org/" },
-    { "name": "Code For A Cause", "url": "https://code4acause.github.io/" }
+    { "name": "LinkedIn", "url": "https://www.linkedin.com/in/darrenweng/" }
   ],
-  "profile": "Staples High School Senior passionate about making technologies and education accessible. Co-founder of Last Mile Now and Code For A Cause. Experienced in open source, hackathons, and STEM education. Seeking to create solutions that benefit all through open debate and technology.",
+  "profile": "Penn CS  Experienced in open source, hackathons, and STEM education. Seeking to create solutions that benefit all through open debate and technology.",
   "education": [
-    { "title": "Staples High School", "institution": "Westport, CT", "year": "2020 - Present", "description": "GPA: 4.41 (Weighted) / 4.00 (Unweighted)" },
-    { "title": "Yale Young Global Scholar (IST)", "institution": "Yale University, New Haven, CT", "year": "Summer 2023", "description": "Accepted into Innovations in Science & Technology. Attended seminars on AI, neuroscience, and cognitive science." },
-    { "title": "Johns Hopkins University Summer", "institution": "Baltimore, MD", "year": "June - Aug 2022", "description": "Applications of Chemistry in Medicine (A), Neuroscience and Human Behavior (A+) (college credits)" },
-    { "title": "MIT Beaver Works Summer Institute", "institution": "Virtual/Cambridge, MA", "year": "Feb - June 2022", "description": "Learned Git, Python, Autonomous Cognitive Assistant, and Cyber Security." },
-    { "title": "Norwalk Community College", "institution": "Norwalk, CT", "year": "2022 - Present", "description": "Introduction to Business (A), World Religion (A), Principles of Sociology (A) (dual enrollment)" }
+    { "title": "University of Pennsylvania", "institution": "Philadelphia, PA", "year": "2024 - Present", "description": "Majors: Computer Science + Economics" },
+    { "title": "Wharton School", "institution": "Philadelphia, PA", "year": "2024 - Present", "description": "Minor: Statistics" },
+    { "title": "Staples High School", "institution": "Westport, CT", "year": "2020 - 2024", "description": "GPA: 4.41 (Weighted) / 4.00 (Unweighted)" },
+    { "title": "Yale Young Global Scholar (IST)", "institution": "Yale University, New Haven, CT", "year": "Summer 2023", "description": "Innovations in Science & Technology. Attended seminars on AI, neuroscience, and cognitive science." },
+    { "title": "Johns Hopkins University Summer", "institution": "Baltimore, MD", "year": "June - Aug 2022", "description": "Applications of Chemistry in Medicine (A), Neuroscience and Human Behavior (A+) (college credits)" }}
   ],
   "experience": [
-    { "title": "Co-Founder", "company": "Last Mile Now", "period": "Sep 2022 - Present", "description": "Non-profit targeting accessibility in healthcare. Use chatbots, open-source projects & crowdfunding to address social issues. Maintain 4 and sponsor 7 open source projects through members' donations.", "url": "https://lastmilenow.org/", "skills": ["Open Source", "Healthcare", "Crowdfunding", "Chatbots"] },
-    { "title": "President & Co-Founder", "company": "Code For A Cause", "period": "Sep 2021 - Present", "description": "Co-founded C4AC to encourage peers to make real impacts through hackathons. Publish newsletters, organize meets, and lead students to participate and win several international and national hackathons.", "url": "https://code4acause.github.io/", "skills": ["Hackathons", "Leadership", "Community Building"] },
-    { "title": "Founder", "company": "MealMaps (supported by LaunchX)", "period": "Summer 2023", "description": "Food discovery business featuring an interactive map for people with dietary restrictions to find suitable restaurants.", "skills": ["Web Development", "Mapping", "Entrepreneurship"] },
+    { "title": "Software Engineer Intern", "company": "Universal Processing", "period": "May 2025 - Present", "description": "Tasked with employing AI to develop a customer service agent.", "skills": ["LLM", "Realtime Voice Chatbots"] },
+	{ "title": "Academic Journal Committee Member", "company": "Wharton Statistics Society", "period": "Sep 2024 - Present", "description": "Built data pipelines and applied statistical and machine learning methods to investigate economic and financial questions for publication. Developed Python tools to extract and analyze earnings data, call sentiment (using FinBERT), and stock price reactions across S&P 500 firms, exploring the relationship between EPS surprises, sentiment, and market impact.", "skills": ["Python", "FinBERT"] },
+    { "title": "Software Intern", "company": "Fermat Capital Management", "period": "May 2024 - August 2024", "description": "Mapped internal bond records to Artemis deal directory for traders’ use using fuzzy logic and web-scraping using C# and SQL. Implemented a new data validation system used by real-time trade analysis and monitoring reports.", "skills": ["C#", "Web Scraping", "SQL", "Git"] },
+    { "title": "Co-Founder", "company": "Last Mile Now", "period": "Sep 2022 - Present", "description": 
+    "Non-profit targeting accessibility in healthcare. Use chatbots, open-source projects & crowdfunding to address social issues. Maintain 4 and sponsor 7 open source projects through members' donations.", "url": "https://lastmilenow.org/", "skills": ["Open Source", "Healthcare", "Crowdfunding", "Chatbots"] },
     { "title": "Summer Tech Intern", "company": "Polypaths", "period": "Summer 2022", "description": "Wrote 11 Selenium scripts to automate QA. Created prototype client support chatbot trained with Salesforce data.", "skills": ["Selenium", "QA Automation", "Chatbots"] },
-    { "title": "Vice President & Varsity Debater", "company": "Staples Debate Club", "period": "Sep 2020 - Present", "description": "Participate in monthly tournaments, judge novice debates, mentor new debaters, organize meets, and recruit new members.", "skills": ["Debate", "Mentoring", "Leadership"] },
-    { "title": "Co-Captain", "company": "Fed Challenge Team", "period": "Sep 2021 - Present", "description": "Organized and led meetings, created agendas and rubrics, researched and wrote the winning essay.", "skills": ["Economics", "Leadership", "Research"] },
     { "title": "Instructor", "company": "Citizen Invention", "period": "Sep 2020 - Present", "description": "Paid job teaching STEM & Design Thinking to 200+ kids. Employee of the year 2022.", "skills": ["STEM Education", "Robotics", "Design Thinking"] },
     { "title": "Research Intern", "company": "Harvard Coronavirus Visualization Team", "period": "2022", "description": "Invited to join CVT intern team. Learned data analysis and visualization tools.", "skills": ["Data Analysis", "Visualization"] },
     { "title": "Math Tutor", "company": "Mu Alpha Theta, Staples High School", "period": "2022 - Present", "description": "Tutor peers in math. Differentiate curriculum based on learning styles and levels.", "skills": ["Math Tutoring", "Curriculum Design"] }
