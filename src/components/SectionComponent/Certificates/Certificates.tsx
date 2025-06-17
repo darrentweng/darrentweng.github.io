@@ -17,9 +17,9 @@ import {
 interface Certificate {
   title: string;
   description: string;
-  date: string;
-  url: string;
-  certificationId: string;
+  date?: string;
+  url?: string;
+  certificationId?: string;
 }
 
 interface CertificatesProps {
@@ -29,17 +29,21 @@ interface CertificatesProps {
   localizedViewCert: string;
 }
 
-const Certificates: React.FC<CertificatesProps> = ({certificates, title, localizedViewCert, localizedCertId}) => {
+const Certificates: React.FC<CertificatesProps> = ({certificates, title, localizedCertId, localizedViewCert}) => {
   return (
     <SectionComponent title={title} sectionId={"certificate"}>
       <CertificateContainer>
         {certificates.map((cert, index) => (
           <CertificateContent key={index}>
-            {cert.title &&
-              <CertificateTitle>{cert.title}<CertificateDate>{cert.date}</CertificateDate></CertificateTitle>}
-            {cert.description && <CertificateDescription>{cert.description}</CertificateDescription>}
+            {cert.title && (
+              <CertificateTitle>
+                <CertificateLink href={cert.description} target="_blank" rel="noopener noreferrer">
+                  {cert.title}
+                </CertificateLink>
+                {cert.date && <CertificateDate>{cert.date}</CertificateDate>}
+              </CertificateTitle>
+            )}
             <CertificateInfo>
-              {cert.url && <CertificateLink href={cert.url} target="_blank">{localizedViewCert}</CertificateLink>}
               {cert.certificationId && (
                 <CertificateID>
                   <CertificateIDLabel>{localizedCertId}:</CertificateIDLabel> {cert.certificationId}

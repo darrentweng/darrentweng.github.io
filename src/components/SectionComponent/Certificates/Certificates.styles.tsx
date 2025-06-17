@@ -11,6 +11,9 @@ export const CertificateContent = styled.div`
 
 export const CertificateTitle = styled.h3`
     font-size: var(--h3-font-size);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 `;
 
 export const CertificateDescription = styled.p`
@@ -20,7 +23,6 @@ export const CertificateDescription = styled.p`
 export const CertificateDate = styled.span`
     color: var(--text-color-light);
     font-size: var(--smaller-font-size);
-    float: right;
 `;
 
 export const CertificateInfo = styled.div`
@@ -31,10 +33,17 @@ export const CertificateInfo = styled.div`
 `;
 
 export const CertificateLink = styled.a`
-    color: var(--text-color-light);
-    font-size: var(--smaller-font-size);
+    color: var(--text-color);
+    text-decoration: none;
+    transition: color 0.3s ease;
+    
+    &:hover {
+        color: var(--first-color);
+    }
+    
     @media print {
-        display: none;
+        color: var(--text-color);
+        text-decoration: none;
     }
 `;
 

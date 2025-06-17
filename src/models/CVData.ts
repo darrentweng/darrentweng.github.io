@@ -44,6 +44,13 @@ interface Reference {
   contact: Contact;
 }
 
+interface Project {
+  title: string;
+  description: string;
+  url?: string;
+  technologies: string[];
+}
+
 export interface CVData {
   name: string;
   profession: string;
@@ -53,6 +60,7 @@ export interface CVData {
   profile: string;
   education: EducationEntry[];
   experience: ExperienceEntry[];
+  projects: Project[];
   certificates: Certificate[];
   references: Reference[];
   skills: string[];

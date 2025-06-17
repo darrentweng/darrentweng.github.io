@@ -24,6 +24,7 @@ import jspdf from "jspdf";
 import Skills from "./components/SectionComponent/Skills/Skills";
 import Loader from "./components/Loader/Loader";
 import HomePrint from "./components/SectionComponent/HomePrint/HomePrint";
+import Projects from "./components/SectionComponent/Projects/Projects";
 
 function App() {
   const [cvData, setCvData] = useState<CVData | null>(null);
@@ -115,6 +116,7 @@ function App() {
         skills: [],
         languages: {},
         interests: {},
+        projects: [],
         ...cvDataResponse // Spread operator to overwrite defaults with actual data
       };
 
@@ -285,6 +287,7 @@ function App() {
                 {cvData?.experience.length > 0 &&
                   <Experience experience={cvData.experience} title={localeData?.experience}
                               readMore={localeData?.readMore} readLess={localeData?.readLess}/>}
+                {cvData?.projects.length > 0 && <Projects projects={cvData.projects} title={localeData?.projects}/>}
                 {cvData?.certificates.length > 0 && <Certificates
                   certificates={cvData.certificates}
                   title={localeData?.certificates}

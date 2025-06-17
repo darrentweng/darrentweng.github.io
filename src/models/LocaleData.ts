@@ -8,6 +8,7 @@ export interface LocaleData {
   profile: string;
   experience: string;
   education: string;
+  projects: string;
   certificates: string;
   references: string;
   languages: string;
