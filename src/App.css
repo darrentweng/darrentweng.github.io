@@ -1,0 +1,7 @@
+/* Add a new rule for scaling the page with browser sizes */
+body {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box;
+} 

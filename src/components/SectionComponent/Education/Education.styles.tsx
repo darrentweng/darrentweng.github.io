@@ -50,3 +50,10 @@ export const EducationYear = styled.span`
     font-size: var(--smaller-font-size);
     display: block;
 `;
+
+export const EducationDescription = styled.span`
+    font-size: var(--smaller-font-size);
+    color: var(--text-color);
+    display: block;
+    margin-top: 0.25rem;
+`;

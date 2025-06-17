@@ -17,6 +17,7 @@ interface EducationEntry {
   title: string;
   institution: string;
   year: string;
+  description: string;
 }
 
 interface ExperienceEntry {

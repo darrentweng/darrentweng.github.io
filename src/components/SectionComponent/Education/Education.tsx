@@ -9,13 +9,15 @@ import {
   EducationStudies,
   EducationTime,
   EducationTitle,
-  EducationYear
+  EducationYear,
+  EducationDescription
 } from './Education.styles';
 
 interface EducationEntry {
   title: string;
   institution: string;
   year: string;
+  description: string;
 }
 
 interface EducationProps {
@@ -39,6 +41,7 @@ const Education: React.FC<EducationProps> = ({education, title}) => {
               <EducationTitle>{edu.title}</EducationTitle>
               <EducationStudies>{edu.institution}</EducationStudies>
               <EducationYear>{edu.year}</EducationYear>
+              <EducationDescription>{edu.description}</EducationDescription>
             </EducationData>
           </EducationContent>
         ))}

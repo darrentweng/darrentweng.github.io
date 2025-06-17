@@ -1,10 +1,10 @@
 import styled from 'styled-components';
 
 export const MainContainer = styled.main`
-    max-width: 968px;
+    max-width: 1200px;
+    width: 100%;
 
-
-    @media screen and (min-width: 968px) {
+    @media screen and (min-width: 1200px) {
         margin: 0 auto;
         margin-top: var(--mb-3);
         box-shadow: 0 0 8px rgba(13, 12, 12, .15);
