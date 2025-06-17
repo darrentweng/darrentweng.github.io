@@ -1,122 +1,175 @@
 {
-  "name": "Balu",
-  "profession": "Gerente de Bienestar",
+  "name": "Darren Weng",
+  "profession": "CS + Econ @ Penn '28",
   "profileImage": "assets/images/profile.jpg",
   "contact": {
-    "address": "El Refugio Acogedor, Dogtown",
-    "email": "balu@weisser.dev",
-    "phone": "+1 (555) 123-4567",
+    "address": "10 Sandy Hill Ter, Westport, CT 06880",
+    "email": "darren.t.weng@gmail.com",
+    "phone": "(203) 993-9637",
     "web": {
-      "url": "https://github.com/weisser-dev",
-      "title": "GitHub"
+      "url": "http://darrenweng.com",
+      "title": "darrenweng.com"
     }
   },
   "socialLinks": [
-    {
-      "name": "Dogster",
-      "url": "https://github.com/weisser-dev/responsive-resume-cv-react"
-    },
-    {
-      "name": "Pawbook",
-      "url": "https://github.com/weisser-dev/responsive-resume-cv-react"
-    }
+    { "name": "GitHub", "url": "https://github.com/darrentweng" },
+    { "name": "LinkedIn", "url": "https://www.linkedin.com/in/darrenweng/" }
   ],
-  "profile": "Un entusiasta de largos paseos y delicias sabrosas dedicado a difundir la alegría y la relajación. Con varios años de experiencia en mover la cola y perseguir pelotas, sé cómo llevar comodidad y felicidad a cualquier entorno.",
+  "profile": "Estudiante de CS en Penn. Experiencia en código abierto, hackathons y educación STEM. Buscando crear soluciones que beneficien a todos a través del debate abierto y la tecnología.",
   "education": [
-    {
-      "title": "Negociación Avanzada de Golosinas",
-      "institution": "Universidad Canina",
-      "year": "2019 - 2020"
-    },
-    {
-      "title": "Licenciatura en Rascado de Barriga",
-      "institution": "Liga de Cachorros",
-      "year": "2018 - 2019"
-    }
+    { "title": "Universidad de Pennsylvania", "institution": "Filadelfia, PA", "year": "2024 - Presente", "description": "Carreras: Ciencias de la Computación + Economía" },
+    { "title": "Escuela Wharton", "institution": "Filadelfia, PA", "year": "2024 - Presente", "description": "Minor: Estadística" },
+    { "title": "Staples High School", "institution": "Westport, CT", "year": "2020 - 2024", "description": "GPA: 4.41 (Ponderado) / 4.00 (No Ponderado)" },
+    { "title": "Yale Young Global Scholar (IST)", "institution": "Universidad de Yale, New Haven, CT", "year": "Verano 2023", "description": "Innovaciones en Ciencia y Tecnología. Asistí a seminarios sobre IA, neurociencia y ciencia cognitiva." },
+    { "title": "Universidad Johns Hopkins Verano", "institution": "Baltimore, MD", "year": "Junio - Agosto 2022", "description": "Aplicaciones de la Química en Medicina (A), Neurociencia y Comportamiento Humano (A+) (créditos universitarios)" }
   ],
-  "experience": [
+  "tests": [
     {
-      "title": "Gerente de Bienestar Junior",
-      "company": "Happy Paws",
-      "period": "2017 - 2019",
-      "description": "Responsable de dar la bienvenida a los visitantes con ladridos \r\nalegres y garantizar niveles óptimos de felicidad en las instalaciones.",
-      "url": "https://github.com/weisser-dev/responsive-resume-cv-react",
-      "skills": [
-        "ladrido",
-        "alegría",
-        "abrazos",
-        "caricias",
-        "dormir"
+      "title": "AP Scholar with Distinction",
+      "score": "14 APs tomados, todos 5s",
+      "date": "Mayo 2024",
+      "institution": "Staples High School",
+      "details": [
+        "AP Psychology - 5 (2024)",
+        "AP Spanish Lang - 5 (2024)",
+        "AP US Govt - 5 (2024)",
+        "AP English Language and Composition - 5 (2023)",
+        "AP Calculus BC - 5 (2023)",
+        "AP Physics C: E&M - 5 (2023)",
+        "AP Physics C: Mechanics - 5 (2023)",
+        "AP Statistics - 5 (2023)",
+        "AP Computer Science A - 5 (2023)",
+        "AP Macroeconomics - 5 (2023)",
+        "AP Microeconomics - 5 (2023)",
+        "AP Chemistry - 5 (2022)",
+        "AP Computer Science Principles - 5 (2022)",
+        "AP U.S. History - 5 (2022)"
       ]
     },
     {
-      "title": "Oficial Principal de Abrazos",
-      "company": "Ladrido y Mimos",
-      "period": "2014 - 2017",
-      "shortDescription": "short descriptions available now!",
-      "description": "Proporcionar servicios de abrazo esenciales a los clientes para<br> mejorar su bienestar emocional y nivel de estrés.",
-      "url": "https://github.com/weisser-dev/responsive-resume-cv-react"
+      "title": "SAT",
+      "score": "1580",
+      "date": "Marzo 2023",
+      "institution": "Staples High School",
+      "details": [
+        "Matemáticas: 800",
+        "EBRW: 780"
+      ]
+    },
+    {
+      "title": "PSAT/NMSQT",
+      "score": "1520/1520",
+      "date": "Octubre 2022",
+      "institution": "Staples High School",
+      "details": [
+        "National Merit Scholar"
+      ]
+    },
+    {
+      "title": "ACT",
+      "score": "36",
+      "date": "Julio 2022",
+      "institution": "Staples High School",
+      "details": [
+        "Matemáticas - 36",
+        "Ciencias - 36",
+        "Inglés - 35",
+        "Lectura - 36"
+      ]
+    }
+  ],
+  "experience": [
+    { "title": "Ingeniero de Software Interno", "company": "Universal Processing", "period": "Mayo 2025 - Presente", "description": "Encargado de emplear IA para desarrollar un agente de servicio al cliente.", "skills": ["LLM", "Chatbots de Voz en Tiempo Real"] },
+    { "title": "Miembro del Comité de Revista Académica", "company": "Sociedad de Estadística de Wharton", "period": "Septiembre 2024 - Presente", "description": "Construí pipelines de datos y apliqué métodos estadísticos y de aprendizaje automático para investigar preguntas económicas y financieras para publicación. Desarrollé herramientas en Python para extraer y analizar datos de ganancias, sentimiento de llamadas (usando FinBERT) y reacciones del precio de las acciones en empresas del S&P 500, explorando la relación entre sorpresas de EPS, sentimiento e impacto en el mercado.", "skills": ["Python", "FinBERT"] },
+    { "title": "Interno de Software", "company": "Fermat Capital Management", "period": "Mayo 2024 - Agosto 2024", "description": "Mapeé registros internos de bonos al directorio de acuerdos de Artemis para uso de traders usando lógica difusa y web-scraping con C# y SQL. Implementé un nuevo sistema de validación de datos utilizado por análisis de operaciones en tiempo real e informes de monitoreo.", "skills": ["C#", "Web Scraping", "SQL", "Git"] },
+    { "title": "Co-Fundador", "company": "Last Mile Now", "period": "Septiembre 2022 - Presente", "description": "Organización sin fines de lucro enfocada en la accesibilidad en la atención médica. Uso chatbots, proyectos de código abierto y crowdfunding para abordar problemas sociales. Mantengo 4 y patrocino 7 proyectos de código abierto a través de donaciones de miembros.", "url": "https://lastmilenow.org/", "skills": ["Código Abierto", "Atención Médica", "Crowdfunding", "Chatbots"] },
+    { "title": "Interno de Tecnología de Verano", "company": "Polypaths", "period": "Verano 2022", "description": "Escribí 11 scripts de Selenium para automatizar QA. Creé un prototipo de chatbot de soporte al cliente entrenado con datos de Salesforce.", "skills": ["Selenium", "Automatización QA", "Chatbots"] },
+    { "title": "Instructor", "company": "Citizen Invention", "period": "Septiembre 2020 - Presente", "description": "Trabajo remunerado enseñando STEM y Design Thinking a más de 200 niños. Empleado del año 2022.", "skills": ["Educación STEM", "Robótica", "Design Thinking"] },
+    { "title": "Interno de Investigación", "company": "Equipo de Visualización del Coronavirus de Harvard", "period": "2022", "description": "Invité a unirme al equipo de internos de CVT. Aprendí herramientas de análisis y visualización de datos.", "skills": ["Análisis de Datos", "Visualización"] }
+  ],
+  "projects": [
+    {
+      "title": "Pipeline de Análisis de Datos Financieros",
+      "description": "Desarrollé un pipeline de datos completo para analizar llamadas de ganancias del S&P 500 y reacciones del mercado. Implementé análisis de sentimiento usando FinBERT y estudios de correlación entre sorpresas de EPS y movimientos del precio de las acciones.",
+      "technologies": ["Python", "FinBERT", "Pandas", "Numpy", "Scikit-learn"]
+    },
+    {
+      "title": "Plataforma de Accesibilidad en la Atención Médica",
+      "description": "Co-fundé Last Mile Now, una plataforma sin fines de lucro que conecta recursos de atención médica con comunidades desatendidas. Implementé soluciones de chatbot y herramientas de código abierto para mejorar la accesibilidad de la atención médica.",
+      "url": "https://lastmilenow.org/",
+      "technologies": ["Node.js", "React", "Chatbots", "Código Abierto"]
+    },
+    {
+      "title": "Suite de Pruebas QA Automatizada",
+      "description": "Creé un framework de pruebas automatizado usando Selenium para mejorar la eficiencia de QA. Reduje el tiempo de prueba en un 70% y aumenté la cobertura de pruebas.",
+      "technologies": ["Selenium", "Python", "Automatización QA"]
+    },
+    {
+      "title": "Visualización de Datos COVID-19",
+      "description": "Contribuí al Equipo de Visualización del Coronavirus de Harvard, creando visualizaciones interactivas para rastrear y analizar datos de la pandemia.",
+      "technologies": ["Visualización de Datos", "Python", "D3.js"]
+    }
+  ],
+  "courses": [
+    {
+      "title": "Aplicaciones de la Química en Medicina",
+      "institution": "Universidad Johns Hopkins",
+      "date": "Verano 2022",
+      "url": "https://www.jhu.edu/"
+    },
+    {
+      "title": "Neurociencia y Comportamiento Humano",
+      "institution": "Universidad Johns Hopkins",
+      "date": "Verano 2022",
+      "url": "https://www.jhu.edu/"
+    },
+    {
+      "title": "Innovaciones en Ciencia y Tecnología",
+      "institution": "Yale Young Global Scholars",
+      "date": "Verano 2023",
+      "url": "https://globalscholars.yale.edu/"
+    },
+    {
+      "title": "Economía Narrativa",
+      "institution": "Universidad de Yale",
+      "date": "2023",
+      "url": "https://www.coursera.org/learn/narrative-economics"
+    },
+    {
+      "title": "Marketing Viral",
+      "institution": "Escuela Wharton",
+      "date": "2023",
+      "url": "https://www.coursera.org/learn/wharton-viral-marketing"
     }
   ],
   "certificates": [
-    {
-      "title": "Peluche Certificado",
-      "description": "Graduado con honores de la Escuela del Buen Perrito y especializado en imitar un peluche.",
-      "date": "2021-06",
-      "url": "https://github.com/weisser-dev/responsive-resume-cv-react",
-      "certificationId": "GB-12345"
-    },
-    {
-      "title": "Maestro Profesional de Ladridos",
-      "description": "Certificado en técnicas avanzadas de ladridos y vigilancia silenciosa para garantizar la seguridad de la propiedad sin ruido.",
-      "date": "2022-11",
-      "url": "https://github.com/weisser-dev/responsive-resume-cv-react",
-      "certificationId": "PB-12345"
-    },
-    {
-      "title": "Experto en Recuperación de Objetos",
-      "description": "Reconocido por sus excepcionales habilidades en la recuperación y nunca perder una pelota o un frisbee.",
-      "date": "2023-01",
-      "url": "https://github.com/weisser-dev/responsive-resume-cv-react",
-      "certificationId": "EF-23345"
-    }
+    { "title": "Git & Github (MIT Lincoln Lab)", "description": "https://courses.bwsix.edly.io/certificates/8bd161f4fdc046629ba8c8553e178a92" },
+    { "title": "Python Core (MIT Lincoln Lab)", "description": "https://courses.bwsix.edly.io/certificates/b3728290a55443518ffe73f22ecdcabb" },
+    { "title": "Ciberseguridad (MIT Lincoln Lab)", "description": "https://courses.bwsix.edly.io/certificates/cabc60cd747c4350b62e8763b49be228" },
+    { "title": "AI Scholars (Inspirit AI)", "description": "https://drive.google.com/file/d/1aj4Xw77Gc6LWByb8ZPQiHu356bqzPzP-/view?usp=share_link" },
+    { "title": "Economía Narrativa (Yale)", "description": "https://www.coursera.org/account/accomplishments/verify/CLDDVXA7AC4D" },
+    { "title": "Marketing Viral (Wharton)", "description": "https://coursera.org/share/2a4aed1faddc99611128599de12a2d24" },
+    { "title": "Introducción al Aprendizaje Automático (Kaggle)", "description": "https://www.kaggle.com/learn/certification/darrenweng/intro-to-machine-learning" },
+    { "title": "Pandas (Kaggle)", "description": "https://www.kaggle.com/learn/certification/darrenweng/pandas" },
+    { "title": "Introducción a la Generación de Imágenes (Google)", "description": "https://www.cloudskillsboost.google/public_profiles/dc1c6181-1e7c-4afb-a21c-cee373f330a5/badges/4569282" },
+    { "title": "Fundamentos de IA Generativa (Google)", "description": "https://www.cloudskillsboost.google/public_profiles/dc1c6181-1e7c-4afb-a21c-cee373f330a5/badges/4270394" },
+    { "title": "Introducción a la IA Responsable (Google)", "description": "https://www.cloudskillsboost.google/public_profiles/dc1c6181-1e7c-4afb-a21c-cee373f330a5/badges/4269827" },
+    { "title": "Introducción a los Modelos de Lenguaje Grande (Google)", "description": "https://www.cloudskillsboost.google/public_profiles/dc1c6181-1e7c-4afb-a21c-cee373f330a5/badges/4019503" }
   ],
-  "references": [
-    {
-      "title": "Directora de la Fábrica de Golosinas",
-      "name": "Luna Doe",
-      "contact": {
-        "phone": "+1 (555) 789-0123",
-        "email": "luna@weisser.dev",
-        "web": {
-          "title": "LinkedIn",
-          "url": "https://github.com/weisser-dev"
-        }
-      }
-    }
-  ],
+  "references": [],
   "skills": [
-    "Recoger",
-    "Correr",
-    "Saltar",
-    "Oler",
-    "Ladrar",
-    "Nadar",
-    "Acariciar",
-    "Jugar",
-    "Obediencia",
-    "Premios",
-    "Correr rápido",
-    "Buscar agua"
+    "Hackathon", "NLP", "Debate", "Chatbot", "Visualización de Datos", "Python", "Java", "NodeJS", "Git", "Cohere"
   ],
   "languages": {
-    "Ladrido": 80,
-    "Aullido": 60,
-    "Quejido": 20
+    "Inglés": 100,
+    "Español (Sello de Biliteracidad de CT)": 90
   },
   "interests": {
-    "Programación": "bx-code-alt",
-    "Café": "bxs-coffee-togo",
-    "Viajar": "bxs-plane-alt"
+    "Juegos en Línea": "bx-joystick",
+    "Tenis": "bxs-tennis-ball",
+    "Pickleball": "bxs-tennis-ball",
+    "Comida": "bxs-pizza",
+    "Guitarra": "bxs-music",
+    "Enseñanza": "bxs-chalkboard"
   }
 }

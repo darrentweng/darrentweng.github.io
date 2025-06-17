@@ -58,6 +58,14 @@ interface Course {
   url?: string;
 }
 
+interface TestEntry {
+  title: string;
+  score: string;
+  date: string;
+  institution: string;
+  details?: string[];
+}
+
 export interface CVData {
   name: string;
   profession: string;
@@ -74,4 +82,5 @@ export interface CVData {
   skills: string[];
   languages: { [key: string]: number };
   interests: { [key: string]: string };
+  tests: TestEntry[];
 }

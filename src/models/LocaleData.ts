@@ -14,6 +14,7 @@ export interface LocaleData {
   references: string;
   languages: string;
   interests: string;
+  tests: string;
   download: string;
   themeButton: string;
   generatePdf: string;

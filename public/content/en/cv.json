@@ -23,6 +23,61 @@
     { "title": "Yale Young Global Scholar (IST)", "institution": "Yale University, New Haven, CT", "year": "Summer 2023", "description": "Innovations in Science & Technology. Attended seminars on AI, neuroscience, and cognitive science." },
     { "title": "Johns Hopkins University Summer", "institution": "Baltimore, MD", "year": "June - Aug 2022", "description": "Applications of Chemistry in Medicine (A), Neuroscience and Human Behavior (A+) (college credits)" }
   ],
+  "tests": [
+    {
+      "title": "AP Scholar with Distinction",
+      "score": "14 APs taken, all 5s",
+      "date": "May 2024",
+      "institution": "Staples High School",
+      "details": [
+        "AP Psychology - 5 (2024)",
+        "AP Spanish Lang - 5 (2024)",
+        "AP US Govt - 5 (2024)",
+        "AP English Language and Composition - 5 (2023)",
+        "AP Calculus BC - 5 (2023)",
+        "AP Physics C: E&M - 5 (2023)",
+        "AP Physics C: Mechanics - 5 (2023)",
+        "AP Statistics - 5 (2023)",
+        "AP Computer Science A - 5 (2023)",
+        "AP Macroeconomics - 5 (2023)",
+        "AP Microeconomics - 5 (2023)",
+        "AP Chemistry - 5 (2022)",
+        "AP Computer Science Principles - 5 (2022)",
+        "AP U.S. History - 5 (2022)"
+      ]
+    },
+    {
+      "title": "SAT",
+      "score": "1580",
+      "date": "Mar 2023",
+      "institution": "Staples High School",
+      "details": [
+        "Math: 800",
+        "EBRW: 780"
+      ]
+    },
+    {
+      "title": "PSAT/NMSQT",
+      "score": "1520/1520",
+      "date": "Oct 2022",
+      "institution": "Staples High School",
+      "details": [
+        "National Merit Scholar"
+      ]
+    },
+    {
+      "title": "ACT",
+      "score": "36",
+      "date": "Jul 2022",
+      "institution": "Staples High School",
+      "details": [
+        "Math - 36",
+        "Science - 36",
+        "English - 35",
+        "Reading - 36"
+      ]
+    }
+  ],
   "experience": [
     { "title": "Software Engineer Intern", "company": "Universal Processing", "period": "May 2025 - Present", "description": "Tasked with employing AI to develop a customer service agent.", "skills": ["LLM", "Realtime Voice Chatbots"] },
 	  { "title": "Academic Journal Committee Member", "company": "Wharton Statistics Society", "period": "Sep 2024 - Present", "description": "Built data pipelines and applied statistical and machine learning methods to investigate economic and financial questions for publication. Developed Python tools to extract and analyze earnings data, call sentiment (using FinBERT), and stock price reactions across S&P 500 firms, exploring the relationship between EPS surprises, sentiment, and market impact.", "skills": ["Python", "FinBERT"] },

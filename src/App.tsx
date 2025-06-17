@@ -26,6 +26,7 @@ import Loader from "./components/Loader/Loader";
 import HomePrint from "./components/SectionComponent/HomePrint/HomePrint";
 import Projects from "./components/SectionComponent/Projects/Projects";
 import Courses from "./components/SectionComponent/Courses/Courses";
+import Tests from "./components/SectionComponent/Tests/Tests";
 
 function App() {
   const [cvData, setCvData] = useState<CVData | null>(null);
@@ -119,6 +120,7 @@ function App() {
         interests: {},
         projects: [],
         courses: [],
+        tests: [],
         ...cvDataResponse // Spread operator to overwrite defaults with actual data
       };
 
@@ -279,6 +281,7 @@ function App() {
                   <SocialLinks socialLinks={cvData.socialLinks} title={localeData?.social}/>}
                 {cvData?.profile && <Profile title={localeData?.profile} description={cvData.profile}/>}
                 {cvData?.education.length > 0 && <Education education={cvData.education} title={localeData?.education}/>}
+                {cvData?.tests.length > 0 && <Tests tests={cvData.tests} title={localeData?.tests}/>}
                 {cvData?.languages.length > 0 && <Languages languages={cvData.languages} title={localeData?.languages}/>}
                 {cvData?.interests && <Interests interests={cvData.interests} title={localeData?.interests}/>}
               </ResumeLeft>
@@ -317,7 +320,8 @@ function App() {
                             readMore={localeData?.readMore} readLess={localeData?.readLess}/>}
               {cvData?.education.length > 0 &&
                 <Education education={cvData.education} title={"0" + printIndex++ + "   " + localeData?.education}/>}
-
+              {cvData?.tests.length > 0 &&
+                <Tests tests={cvData.tests} title={"0" + printIndex++ + "   " + localeData?.tests}/>}
               {cvData?.skills.length > 0 &&
                 <Skills skills={cvData.skills} title={"0" + printIndex++ + "   " + localeData?.skills}/>}
               {cvData?.languages &&

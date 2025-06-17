@@ -1,9 +1,7 @@
 {
   "availableLanguages": [
     "en",
-    "de",
-    "es",
-    "ru"
+    "es"
   ],
   "themes": {
     "light": "themes/default/light.css",
