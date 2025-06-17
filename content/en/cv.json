@@ -33,6 +33,61 @@
     { "title": "Instructor", "company": "Citizen Invention", "period": "Sep 2020 - Present", "description": "Paid job teaching STEM & Design Thinking to 200+ kids. Employee of the year 2022.", "skills": ["STEM Education", "Robotics", "Design Thinking"] },
     { "title": "Research Intern", "company": "Harvard Coronavirus Visualization Team", "period": "2022", "description": "Invited to join CVT intern team. Learned data analysis and visualization tools.", "skills": ["Data Analysis", "Visualization"] }
   ],
+  "projects": [
+    {
+      "title": "Financial Data Analysis Pipeline",
+      "description": "Developed a comprehensive data pipeline for analyzing S&P 500 earnings calls and market reactions. Implemented sentiment analysis using FinBERT and correlation studies between EPS surprises and stock price movements.",
+      "technologies": ["Python", "FinBERT", "Pandas", "Numpy", "Scikit-learn"]
+    },
+    {
+      "title": "Healthcare Accessibility Platform",
+      "description": "Co-founded Last Mile Now, a non-profit platform connecting healthcare resources with underserved communities. Implemented chatbot solutions and open-source tools to improve healthcare accessibility.",
+      "url": "https://lastmilenow.org/",
+      "technologies": ["Node.js", "React", "Chatbots", "Open Source"]
+    },
+    {
+      "title": "Automated QA Testing Suite",
+      "description": "Created an automated testing framework using Selenium to improve QA efficiency. Reduced testing time by 70% and increased test coverage.",
+      "technologies": ["Selenium", "Python", "QA Automation"]
+    },
+    {
+      "title": "COVID-19 Data Visualization",
+      "description": "Contributed to Harvard's Coronavirus Visualization Team, creating interactive visualizations to track and analyze pandemic data.",
+      "technologies": ["Data Visualization", "Python", "D3.js"]
+    }
+  ],
+  "courses": [
+    {
+      "title": "Applications of Chemistry in Medicine",
+      "institution": "Johns Hopkins University",
+      "date": "Summer 2022",
+      "url": "https://www.jhu.edu/"
+    },
+    {
+      "title": "Neuroscience and Human Behavior",
+      "institution": "Johns Hopkins University",
+      "date": "Summer 2022",
+      "url": "https://www.jhu.edu/"
+    },
+    {
+      "title": "Innovations in Science & Technology",
+      "institution": "Yale Young Global Scholars",
+      "date": "Summer 2023",
+      "url": "https://globalscholars.yale.edu/"
+    },
+    {
+      "title": "Narrative Economics",
+      "institution": "Yale University",
+      "date": "2023",
+      "url": "https://www.coursera.org/learn/narrative-economics"
+    },
+    {
+      "title": "Viral Marketing",
+      "institution": "Wharton School",
+      "date": "2023",
+      "url": "https://www.coursera.org/learn/wharton-viral-marketing"
+    }
+  ],
   "certificates": [
     { "title": "Git & Github (MIT Lincoln Lab)", "description": "https://courses.bwsix.edly.io/certificates/8bd161f4fdc046629ba8c8553e178a92" },
     { "title": "Python Core (MIT Lincoln Lab)", "description": "https://courses.bwsix.edly.io/certificates/b3728290a55443518ffe73f22ecdcabb" },
