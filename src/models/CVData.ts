@@ -51,6 +51,13 @@ interface Project {
   technologies: string[];
 }
 
+interface Course {
+  title: string;
+  institution: string;
+  date: string;
+  url?: string;
+}
+
 export interface CVData {
   name: string;
   profession: string;
@@ -61,6 +68,7 @@ export interface CVData {
   education: EducationEntry[];
   experience: ExperienceEntry[];
   projects: Project[];
+  courses: Course[];
   certificates: Certificate[];
   references: Reference[];
   skills: string[];

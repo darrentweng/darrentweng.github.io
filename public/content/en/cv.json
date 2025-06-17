@@ -56,6 +56,38 @@
       "technologies": ["Data Visualization", "Python", "D3.js"]
     }
   ],
+  "courses": [
+    {
+      "title": "Applications of Chemistry in Medicine",
+      "institution": "Johns Hopkins University",
+      "date": "Summer 2022",
+      "url": "https://www.jhu.edu/"
+    },
+    {
+      "title": "Neuroscience and Human Behavior",
+      "institution": "Johns Hopkins University",
+      "date": "Summer 2022",
+      "url": "https://www.jhu.edu/"
+    },
+    {
+      "title": "Innovations in Science & Technology",
+      "institution": "Yale Young Global Scholars",
+      "date": "Summer 2023",
+      "url": "https://globalscholars.yale.edu/"
+    },
+    {
+      "title": "Narrative Economics",
+      "institution": "Yale University",
+      "date": "2023",
+      "url": "https://www.coursera.org/learn/narrative-economics"
+    },
+    {
+      "title": "Viral Marketing",
+      "institution": "Wharton School",
+      "date": "2023",
+      "url": "https://www.coursera.org/learn/wharton-viral-marketing"
+    }
+  ],
   "certificates": [
     { "title": "Git & Github (MIT Lincoln Lab)", "description": "https://courses.bwsix.edly.io/certificates/8bd161f4fdc046629ba8c8553e178a92" },
     { "title": "Python Core (MIT Lincoln Lab)", "description": "https://courses.bwsix.edly.io/certificates/b3728290a55443518ffe73f22ecdcabb" },

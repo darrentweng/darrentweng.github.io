@@ -25,6 +25,7 @@ import Skills from "./components/SectionComponent/Skills/Skills";
 import Loader from "./components/Loader/Loader";
 import HomePrint from "./components/SectionComponent/HomePrint/HomePrint";
 import Projects from "./components/SectionComponent/Projects/Projects";
+import Courses from "./components/SectionComponent/Courses/Courses";
 
 function App() {
   const [cvData, setCvData] = useState<CVData | null>(null);
@@ -117,6 +118,7 @@ function App() {
         languages: {},
         interests: {},
         projects: [],
+        courses: [],
         ...cvDataResponse // Spread operator to overwrite defaults with actual data
       };
 
@@ -288,6 +290,7 @@ function App() {
                   <Experience experience={cvData.experience} title={localeData?.experience}
                               readMore={localeData?.readMore} readLess={localeData?.readLess}/>}
                 {cvData?.projects.length > 0 && <Projects projects={cvData.projects} title={localeData?.projects}/>}
+                {cvData?.courses.length > 0 && <Courses courses={cvData.courses} title={localeData?.courses}/>}
                 {cvData?.certificates.length > 0 && <Certificates
                   certificates={cvData.certificates}
                   title={localeData?.certificates}
